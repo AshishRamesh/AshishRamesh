@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I am Ashish Ramesh</h1>
+<<h1 align="center">Hi there 👋, I am Ashish Ramesh</h1>
 <h3 align="center">I am pursuing my B.E in Computer Science Engineering at ,expected to complete by 2026</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishramesh" alt="ashishramesh" /></a> </p>
@@ -7,6 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/ashish_ramesh03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashish_ramesh03" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/ashish_ramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashish_ramesh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashishramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashishramesh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
