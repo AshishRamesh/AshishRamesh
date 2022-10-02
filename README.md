@@ -1,8 +1,6 @@
 <<h1 align="center">Hi there 👋, I am Ashish Ramesh</h1>
 <h3 align="center">I am pursuing my B.E in Computer Science Engineering at ,expected to complete by 2026</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishramesh" alt="ashishramesh" /></a> </p>
-
 - 📫 How to reach me **ashishramesh2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
