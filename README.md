@@ -17,3 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishramesh&show_icons=true&locale=en" alt="ashishramesh" /></p>
 
 [![@ashish_ramesh's Holopin board](https://holopin.io/api/user/board?user=ashish_ramesh)](https://holopin.io/@ashish_ramesh)
+
+[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish_ramesh)](https://github.com/anuraghazra/github-readme-stats)
