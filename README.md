@@ -16,6 +16,6 @@
 
 [![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshishRamesh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishRamesh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![An image of @ashish_ramesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashish_ramesh)](https://holopin.io/@ashish_ramesh)
