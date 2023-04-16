@@ -19,7 +19,7 @@
 [![Top Langs]([https://vercel.com/ashishramesh/github-readme-stats](https://github-readme-stats.vercel.).app/api/top-langs/?username=AshishRamesh&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Ashish's GitHub stats](https://github-readme-stats-ashishramesh.vercel.app/api?username=AshishRamesh&show_icons=true&theme=github_dark)
+![Ashish's GitHub stats](https://github-readme-stats-rho-sooty-49.vercel.app/api?username=AshishRamesh&show_icons=true&theme=github_dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AshishRamesh&theme=highcontrast)](https://git.io/streak-stats)
 
