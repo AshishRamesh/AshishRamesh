@@ -9,7 +9,8 @@
 <a href="https://twitter.com/ashish_ramesh03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashish_ramesh03" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ashish_ramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashish_ramesh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashishramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashishramesh" height="30" width="40" /></a>
-<a href="https://ee31c2c1.ashish-portfolio-emc.pages.dev" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_135286239_web-icon-www-sign-search-www-vector-icon-web-hosting-technology-globe-hyperlink-icon-isolated-vector.html&psig=AOvVaw2ONkymwniO56b4TPue0rRF&ust=1682663640252000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNj5i9a4yf4CFQAAAAAdAAAAABAR" alt="ashish_ramesh03" height="30" width="40" /></a>
+<h3 align="left">My Website:</h3>
+<a href="https://ee31c2c1.ashish-portfolio-emc.pages.dev" target="blank"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishramesh&label=Profile%20views&color=0e75b6&style=flat" alt="ashishramesh" /> </p>
