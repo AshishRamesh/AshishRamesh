@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I am Ashish Ramesh</h1>
-<h3 align="center">I am pursuing my B.E in Computer Science Engineering at MVJCE ,expected to complete by 2026</h3>
+<h3 align="center">I am pursuing my B.E in Computer Science Engineering at MVJCE,expected to complete by 2026</h3>
 
 
 - 📫 How to reach me **ashishramesh2003@gmail.com**
@@ -23,7 +23,7 @@
 
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshishRamesh&show_icons=true&theme=github_dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AshishRamesh)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AshishRamesh&theme=highcontrast)](https://git.io/streak-stats)
 
 [![An image of @ashish_ramesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashish_ramesh)](https://holopin.io/@ashish_ramesh)
 
